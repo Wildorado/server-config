@@ -91,7 +91,7 @@ PICTURE_LOGGING_CAMERA
 INACTIVITY_PERIOD 300
 
 ## period of time in seconds for players to be considered afk and kickable
-AFK_PERIOD 600
+AFK_PERIOD 1800
 
 ## disconnect players who are considered afk
 KICK_INACTIVE
